@@ -1,0 +1,2 @@
+# W4-Bug-Squashers
+So we have designed an online FIR portal system  where we are allowing the user to register a FIR  by sitting right in their home so that they do not  have to go to the police station to register the FIR  physically. We have considered all the problems  that the user and police officers often faced  during the entire process of FIR registration  and the police men during the investigations.
